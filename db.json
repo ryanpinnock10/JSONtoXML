@@ -1,0 +1,12 @@
+{
+  "person": {
+    "first": "Lisa",
+    "last": "Nguyen",
+    "age": 32,
+    "office": {
+      "city": "Minneapolis",
+      "state": "MN",
+      "zip": 55414
+    }
+  }
+}
